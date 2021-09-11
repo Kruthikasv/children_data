@@ -1,6 +1,7 @@
-# children_data
-Organization of children data
+ORGANIZATION OF CHILDREN DATA
 Research intern in SPIRE LAB, IISc
+
+
 
 There are two types of users we'll call them anonymous and named.
 This code extracts information about each user from the metadata and stores it in the xl as well as creates directories for each user that contains the audio files and sentences(or)images associated with the audio files.
